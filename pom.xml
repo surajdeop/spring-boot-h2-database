@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.database</groupId>
 	<artifactId>spring-boot-h2-database</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>spring-boot-h2-database</name>
 	<description>H2 Database project for Spring Boot</description>
 
